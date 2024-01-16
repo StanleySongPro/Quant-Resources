@@ -19,6 +19,7 @@
 *.vscode
 *.db
 *.html
+*.csv
 
 *project_venv
 *venv
